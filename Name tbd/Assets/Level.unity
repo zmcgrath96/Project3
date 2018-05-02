@@ -613,6 +613,7 @@ CanvasRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1140142803}
+<<<<<<< HEAD
 --- !u!1 &1226022500
 GameObject:
   m_ObjectHideFlags: 0
@@ -642,6 +643,8 @@ Transform:
   m_Father: {fileID: 1556365691}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 3fb8b416... Merge branch 'master' of https://github.com/zmcgrath96/Project4
 --- !u!1 &1229567626
 GameObject:
   m_ObjectHideFlags: 0
